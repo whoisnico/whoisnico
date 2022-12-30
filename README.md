@@ -23,6 +23,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicotrixxel&show_icons=true" alt="nicotrixxel" /></p>
 
+<p align="center">
+  <a href="https://discord.com/users/725409903757361303">
+     <img src="https://discord.c99.nl/widget/theme-4/725409903757361303.png" alt="nico†rixxel#3798 ( 725409903757361303 )"/>
+       </a>
+</p>
 
 <!---
 nicotrixxel/nicotrixxel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
