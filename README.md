@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Java, HTML, CSS & Javascript**
 
-- 🔭 I’m currently working on [Steam Sorter]([https://github.com/nicotrixxel/Venady-Bot2.0](https://github.com/nicotrixxel/Steam-Fulll-Capture-Sorter))
+- 🔭 I’m currently working on [Steam Sorter](https://github.com/nicotrixxel/Steam-Fulll-Capture-Sorter)
 
 - 👀 I’m interested in **Gaming, Video/Photo editing and coding.**
 
