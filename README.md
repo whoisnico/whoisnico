@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Venady Discord Bot](https://github.com/nicotrixxel/Venady-Bot2.0)
 
-- 👀 I’m interested in **Gaming, Video/Photo editing and cooding.**
+- 👀 I’m interested in **Gaming, Video/Photo editing and coding.**
 
 - ⚡ Fun fact **many say i have a good taste in music.**
 
