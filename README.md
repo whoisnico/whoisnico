@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python, C++, HTML, CSS & Javascript**
 
-- 🔭 I’m currently working on **[Steam Sorter](https://github.com/nicotrixxel/Steam-Fulll-Capture-Sorter)**
+- 🔭 I’m currently working on **[Artemis Stealer](https://t.me/VenadyCloud)**
 
 - 👀 I’m interested in **Gaming, Video/Photo editing and coding.**
 
