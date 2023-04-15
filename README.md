@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
 
-- 🌱 I’m currently learning **Python, Java, HTML, CSS & Javascript**
+- 🌱 I’m currently learning **Python, C++, HTML, CSS & Javascript**
 
 - 🔭 I’m currently working on **[Steam Sorter](https://github.com/nicotrixxel/Steam-Fulll-Capture-Sorter)**
 
