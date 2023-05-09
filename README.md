@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
 
-- 🌱 I’m currently learning **Python, C**
+- 🌱 I’m currently learning **Python & C**
 
 - 🔭 I’m currently working on **[Artemis Stealer](https://t.me/VenadyCloud)**
 
