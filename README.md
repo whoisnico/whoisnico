@@ -21,12 +21,12 @@
        </a>
 
 ### _Profile Views_
-<img src="https://profile-counter.glitch.me/nicotrixxel/count.svg" />
+<img src="https://profile-counter.glitch.me/whoisnico/count.svg" />
 
 ### _Stats_
 <p>
-    <img alt="Nicos Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicotrixxel&include_all_commits=true&show_icons=true&title_color=1c7eff&icon_color=8be9fd&text_color=c9d1d9&bg_color=0d1117" height="160em"/>
-    <img alt="Nicos Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicotrixxel&layout=compact&title_color=1c7eff&text_color=c9d1d9&bg_color=0d1117" height="160em"/>
+    <img alt="Nicos Github Stats" src="https://github-readme-stats.vercel.app/api?username=whoisnico&include_all_commits=true&show_icons=true&title_color=1c7eff&icon_color=8be9fd&text_color=c9d1d9&bg_color=0d1117" height="160em"/>
+    <img alt="Nicos Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisnico&layout=compact&title_color=1c7eff&text_color=c9d1d9&bg_color=0d1117" height="160em"/>
 </p>
 <!---
 nicotrixxel/nicotrixxel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
