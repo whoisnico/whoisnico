@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python & C**
 
-- 🔭 I’m currently working on **[Artemis Stealer](https://t.me/VenadyCloud)**
+- 🔭 I’m currently working on **[Echo Bot]([https://t.me/VenadyCloud](https://whoisnico.github.io/echo-bot/))**
 
 - 👀 I’m interested in **Gaming, Video/Photo editing and coding.**
 
@@ -11,7 +11,7 @@
 ### _Connect with me_
 <p align="left">
 <a href="https://twitter.com/nicotrixxel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicotrixxel" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/venady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/venady" height="30" width="40" /></a>
+<a href="https://discord.gg/discord.gg/venady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KJs5jM7JTa" height="30" width="40" /></a>
 </p>
 
 ### _Discord_
