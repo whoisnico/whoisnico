@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python & C**
 
-- 🔭 I’m currently working on **[Echo Bot]([https://t.me/VenadyCloud](https://whoisnico.github.io/echo-bot/))**
+- 🔭 I’m currently working on **[Echo Bot](https://whoisnico.github.io/echo-bot/))**
 
 - 👀 I’m interested in **Gaming, Video/Photo editing and coding.**
 
