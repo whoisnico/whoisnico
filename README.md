@@ -17,7 +17,7 @@
 ### _Discord_
 <p>
   <a href="https://discord.com/users/725409903757361303">
-     <img src="https://discord.c99.nl/widget/theme-4/725409903757361303.png" alt="nico†rixxel#3798 ( 725409903757361303 )"/>
+     <img src="https://discord.c99.nl/widget/theme-4/725409903757361303.png" alt=".whosnico ( 1187424858796212306 )"/>
        </a>
 
 ### _Profile Views_
