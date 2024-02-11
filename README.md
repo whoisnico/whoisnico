@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python & C**
 
-- 🔭 I’m currently working on **[OutfitCheck App]([https://whoisnico.github.io/echo-bot/](https://github.com/OutfitCheck))**
+- 🔭 I’m currently working on **[Sellpass Assist](https://github.com/whoisnico/SellPass-Assist-Bot)**
 
 - 👀 I’m interested in **Gaming, Video/Photo editing and coding.**
 
