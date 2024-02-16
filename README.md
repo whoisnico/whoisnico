@@ -10,8 +10,8 @@
 
 ### _Connect with me_
 <p align="left">
-<a href="https://twitter.com/nicotrixxel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicotrixxel" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/venady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KJs5jM7JTa" height="30" width="40" /></a>
+<a href="https://twitter.com/whosnico47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicotrixxel" height="30" width="40" /></a>
+<a href="https://discord.gg/csDtvD9FYA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KJs5jM7JTa" height="30" width="40" /></a>
 </p>
 
 ### _Discord_
