@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python & C**
 
-- 🔭 I’m currently working on **[Sellpass Assist](https://github.com/whoisnico/SellPass-Assist-Bot)**
+- 🔭 I’m currently working on **[Billgang Assist](https://github.com/whoisnico/Billgang-Assist-Bot-Page)**
 
 - 👀 I’m interested in **Gaming, Video/Photo editing and coding.**
 
